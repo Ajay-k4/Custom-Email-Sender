@@ -4,8 +4,8 @@ This is a feature-rich platform built with React, TypeScript, and Tailwind CSS, 
 From importing data to tracking delivery analytics, this dashboard caters to all your email automation needs.
 ## Setup Instructions
 1. Clone the repository:
-git clone [your-repository-url]
-cd [repository-name]
+git clone [https://github.com/Ajay-k4/Custom-Email-Sender]
+cd [Custom Email Sender]
 2. Install dependencies:
 npm install
 3. Start the development server:
