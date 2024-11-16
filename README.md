@@ -1,6 +1,6 @@
 Email Automation Dashboard
 A modern and efficient email automation platform designed for seamless communication management.
-The Email Automation Dashboard is a feature-rich platform built with React, TypeScript, and Tailwind CSS, offering a user-friendly interface to streamline your email campaigns.
+This is a feature-rich platform built with React, TypeScript, and Tailwind CSS, offering a user-friendly interface to streamline your email campaigns.
 From importing data to tracking delivery analytics, this dashboard caters to all your email automation needs.
 ## Setup Instructions
 1. Clone the repository:
